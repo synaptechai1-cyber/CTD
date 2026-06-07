@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 // ── Proxy URL — update this after deploying your Cloudflare Worker ──
-export const PROXY_URL = "https://ctd-africa-proxy.YOUR-SUBDOMAIN.workers.dev";
+export const PROXY_URL = "https://ctd-africa-proxy.mzombilini.workers.dev";
 
 
 import Dashboard from "./components/Dashboard";
