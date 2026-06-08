@@ -11,8 +11,7 @@ const ALLOWED_ORIGINS = [
   "https://ctdafrica.pages.dev",
   "https://ctd-africa.com",
   "https://www.ctd-africa.com",
-  // Add your engine URL below once you know it e.g.:
-  // "https://ctd-engine.pages.dev",
+  "https://ctd-3zl.pages.dev",
   "http://localhost:5173",
   "http://localhost:4173",
 ];
